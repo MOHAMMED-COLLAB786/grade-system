@@ -1,7 +1,11 @@
-# grade-system
-This is a simple Python project that calculates and displays a student's grade based on the marks entered.
-Grade Calculator (Python)
+<h1>grade-system</h1>
+<br>
+<p></p>This is a simple Python project that calculates and displays a student's grade based on the marks entered.</p>
+<br>
+<h1></h1>Grade Calculator (Python)</h2>
+<br>
 brief description about the python program
+<br>
 This is a beginner-friendly Python program to calculate grades based on marks out of 100.
 
 - A+ : 90–100
